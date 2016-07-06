@@ -1,0 +1,14 @@
+layout_spectrum: 0.6327663687989116
+typography_spectrum: 0.5453097149729729
+color:
+  brandStrength: 0.9933835819829255
+  lightness: 0.7496814427431673
+  saturation: 0.9958583649713546
+  rhythmicContrast: 0.3746968323830515
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: kmote
